@@ -1,55 +1,39 @@
 {
-  "version": "2.9.0",
+  "version": "3.0.0",
   "update": {
-    "version": "2.9",
+    "version": "3.0",
     "message": ""
   },
+  "appId": "",
   "review": 0,
   "swipes": [
     {
-      "title": "瑞克和莫蒂 第三季",
-      "img": "https://p2.pstatp.com/origin/ff8600014524aafa3111.jpg",
-      "href": "https://www.nunuyy.cc/dongman/1046.html"
+      "title": "扫黑风暴",
+      "img": "http://pix2.tvzhe.com/thumb/drama/146/462/540x303.jpg",
+      "href": "https://www.nunuyy.cc/dianshiju/88848.html"
     },
     {
-      "title": "进击的巨人 第三季",
-      "img": "https://p2.pstatp.com/origin/ff0400017b08eedc862f.jpg",
-      "href": "https://www.nunuyy.cc/dongman/4658.html"
+      "title": "天龙八部",
+      "img": "http://pix2.tvzhe.com/thumb/drama/125/510/540x303.jpg",
+      "href": "https://www.nunuyy.cc/dianshiju/90224.html"
     },
     {
-      "title": "虫师 续章",
-      "img": "https://p2.pstatp.com/origin/ff9c00015edd3392524d.jpg",
-      "href": "https://www.nunuyy.cc/dongman/21240.html"
+      "title": "紧急审讯室4",
+      "img": "https://wx1.sinaimg.cn/large/005XW4oJgy1gtfnd6i8jnj60uk0h7jva02.jpg",
+      "href": "https://www.nunuyy.cc/dianshiju/89543.html"
     },
     {
-      "title": "JOJO的奇妙冒险",
-      "img": "https://p2.pstatp.com/origin/fe47000128623723adb4.jpg",
-      "href": "https://www.nunuyy.cc/dongman/6930.html"
+      "title": "私家侦探 第五季",
+      "img": "https://tupian.meijumi.top/2021/07/005f1s2brf2bbb_compressed.jpg",
+      "href": "https://www.nunuyy.cc/dianshiju/89600.html"
     }
   ],
   "drawer": {
-    "txt": "不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。",
-    "author": "《千与千寻》",
-    "bg": "https://p2.pstatp.com/origin/ff3e00010e557b0f9fad.jpg"
+    "txt": "每个时代拥有阳光照射不到的黑暗，可是总有些人坚持让阳光普照大地，为此不惜生命。",
+    "author": "《扫黑风暴》",
+    "bg": "https://wx3.sinaimg.cn/mw690/78848cf9gy1gtiixh2e50j20zk0hq41g.jpg"
   },
-  "announce": {
-    "show": "1",
-    "title": "欢迎使用天天动漫",
-    "contents": [
-      {
-        "content": "本App所有资源"
-      },
-      {
-        "content": "来源于第三方搜索引擎，天天动漫无权增加、修改、删除任何信息。\n\n",
-        "highlight": "1"
-      },
-      {
-        "content": "本App是基于第三方公开接口的搜索引擎展示，所有展示内容皆是搜索引擎检索结果。\n\n本App以非人工检索方式，根据用户键入或选择的关键字自动发送至第三方网站查询检索，任何通过使用本App展示和搜索的资源均系他人制作或提供，所有视频及图片版权均归原作者及网站所有，本应用不存储、不制作、不上传。\n\n本App没有数据服务器，仅有用于应用更新检查的静态空间。\n\n若本App无意侵犯了您的权利，请留言，我们会及时处理和回复。\n\n本App仅为学习与测试之用，日常请使用正版视频软件，支持正版人人有责。"
-      }
-    ],
-    "button": "我知道了"
-  },
-  "filter_films_enable": 1,
+  "filter_films_enable" : 1,
   "filter_films": [
     "金瓶梅",
     "强奸",
@@ -184,8 +168,9 @@
     "卿狂",
     "危情"
   ],
+  "excluded_filter_films": ["速度与激情"],
   "buffering_timeout": 20,
-  "search_hint_text": "请输入关键词，如\"海贼王\"",
+  "search_hint_text": "请输入关键词，如\"扫黑风暴\"",
   "play_no_source_hint": "抱歉，该影片暂无播放源，请切换源或者观看其它影片或者稍后重试",
   "playing_error_hint": "抱歉，播放源片段出现错误，请重试后拖出此片段观看或者稍后重试",
   "play_no_source_hint_theater": "抱歉，该###暂无播放源，请观看其它###或者稍后重试",
