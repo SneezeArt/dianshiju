@@ -1,31 +1,40 @@
 {
-  "version": "3.8.1",
+  "version": "4.7.1",
   "update": {
-    "version": "3.8",
-    "message": ""
+    "version": "4.7",
+    "message": "修复了一些问题"
   },
+  "film_url": "https://www.nunuyy.top",
+  "film_url_host": "www.nunuyy.top",
+  "film_m3u8s": [
+    ".m3u8",
+    ".mp4"
+  ],
+  "buffering_timeout": 30,
+  "native_play": 1,
+  "online_play_source": "© 2018-2021 努努影院",
   "appId": "",
   "review": 0,
   "swipes": [
     {
       "title": "扫黑风暴",
       "img": "http://pix2.tvzhe.com/thumb/drama/146/462/540x303.jpg",
-      "href": "https://www.nunuyy.cc/dianshiju/88848.html"
+      "href": "https://www.nunuyy.top/dianshiju/88848.html"
     },
     {
       "title": "天龙八部",
       "img": "http://pix2.tvzhe.com/thumb/drama/125/510/540x303.jpg",
-      "href": "https://www.nunuyy.cc/dianshiju/90224.html"
+      "href": "https://www.nunuyy.top/dianshiju/90224.html"
     },
     {
       "title": "紧急审讯室4",
       "img": "https://wx1.sinaimg.cn/large/005XW4oJgy1gtfnd6i8jnj60uk0h7jva02.jpg",
-      "href": "https://www.nunuyy.cc/dianshiju/89543.html"
+      "href": "https://www.nunuyy.top/dianshiju/89543.html"
     },
     {
       "title": "私家侦探 第五季",
       "img": "https://tupian.meijumi.top/2021/07/005f1s2brf2bbb_compressed.jpg",
-      "href": "https://www.nunuyy.cc/dianshiju/89600.html"
+      "href": "https://www.nunuyy.top/dianshiju/89600.html"
     }
   ],
   "drawer": {
@@ -33,8 +42,26 @@
     "author": "《扫黑风暴》",
     "bg": "https://wx3.sinaimg.cn/mw690/78848cf9gy1gtiixh2e50j20zk0hq41g.jpg"
   },
+  "announce": {
+    "show": "1",
+    "title": "欢迎使用天天电视剧",
+    "contents": [
+      {
+        "content": "本App所有资源"
+      },
+      {
+        "content": "来源于第三方搜索引擎，天天电视剧无权增加、修改、删除任何信息。\n\n",
+        "highlight": "1"
+      },
+      {
+        "content": "本App是基于第三方公开接口的搜索引擎展示，所有展示内容皆是搜索引擎检索结果。\n\n本App以非人工检索方式，根据用户键入或选择的关键字自动发送至第三方网站查询检索，任何通过使用本App展示和搜索的资源均系他人制作或提供，所有视频及图片版权均归原作者及网站所有，本应用不存储、不制作、不上传。\n\n本App没有数据服务器，仅有用于应用更新检查的静态空间。\n\n若本App无意侵犯了您的权利，请留言，我们会及时处理和回复。\n\n本App仅为学习与测试之用，日常请使用正版视频软件，支持正版人人有责。"
+      }
+    ],
+    "button": "我知道了"
+  },
   "filter_films_enable" : 1,
   "filter_films": [
+    "键",
     "金瓶梅",
     "强奸",
     "性",
@@ -166,7 +193,33 @@
     "九歌",
     "魔鬼天使",
     "卿狂",
-    "危情"
+    "危情",
+    "豪放",
+    "情欲",
+    "奸情",
+    "小姨子",
+    "黑天使",
+    "珍品",
+    "强我",
+    "疯情",
+    "灵与欲",
+    "上位",
+    "青楼",
+    "囡囡",
+    "不扣钮的女孩",
+    "爱奴",
+    "低俗",
+    "情事",
+    "青春珊瑚岛",
+    "女集中营",
+    "娜塔莉",
+    "恋之罪",
+    "不夜城",
+    "解救吾先生",
+    "困惑的浪漫",
+    "交换的一天",
+    "幸福出租车",
+    "色魔"
   ],
   "excluded_filter_films": ["速度与激情"],
   "buffering_timeout": 20,
