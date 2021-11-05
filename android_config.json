@@ -1,7 +1,7 @@
 {
-  "version": "4.7.3",
+  "version": "4.8.1",
   "update": {
-    "version": "4.7",
+    "version": "4.8",
     "message": "修复了一些问题"
   },
   "film_url": "https://www.nunuyy.top",
@@ -17,24 +17,24 @@
   "review": 0,
   "swipes": [
     {
-      "title": "扫黑风暴",
-      "img": "http://pix2.tvzhe.com/thumb/drama/146/462/540x303.jpg",
-      "href": "https://www.nunuyy.top/dianshiju/88848.html"
+      "title": "最爱",
+      "img": "https://pic.rmb.bdstatic.com/bjh/cbab551241d9ba84f11b465d9aa71566.jpeg",
+      "href": "https://www.nunuyy.cc/dianshiju/92093.html"
     },
     {
-      "title": "天龙八部",
-      "img": "http://pix2.tvzhe.com/thumb/drama/125/510/540x303.jpg",
-      "href": "https://www.nunuyy.top/dianshiju/90224.html"
+      "title": "致命愿望",
+      "img": "https://pic.rmb.bdstatic.com/bjh/df7bbd232416dc2b44fde3035962ef1f.jpeg",
+      "href": "https://www.nunuyy.cc/dianshiju/67714.html"
     },
     {
-      "title": "紧急审讯室4",
-      "img": "https://wx1.sinaimg.cn/large/005XW4oJgy1gtfnd6i8jnj60uk0h7jva02.jpg",
-      "href": "https://www.nunuyy.top/dianshiju/89543.html"
+      "title": "嘉南传",
+      "img": "https://pic.rmb.bdstatic.com/bjh/bed7ded621e999401c2ea86c94336142.jpeg",
+      "href": "https://www.nunuyy.cc/dianshiju/91966.html"
     },
     {
-      "title": "私家侦探 第五季",
-      "img": "https://tupian.meijumi.top/2021/07/005f1s2brf2bbb_compressed.jpg",
-      "href": "https://www.nunuyy.top/dianshiju/89600.html"
+      "title": "突围",
+      "img": "https://pic.rmb.bdstatic.com/bjh/91356eaa0e3df75caf098531ce2964cc.jpeg",
+      "href": "https://www.nunuyy.cc/dianshiju/92195.html"
     }
   ],
   "drawer": {
@@ -218,10 +218,7 @@
     "解救吾先生",
     "困惑的浪漫",
     "交换的一天",
-    "幸福出租车",
-    "色魔",
-    "美乳",
-    "新妻"
+    "幸福出租车"
   ],
   "excluded_filter_films": ["速度与激情"],
   "buffering_timeout": 20,
