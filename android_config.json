@@ -1,7 +1,7 @@
 {
-  "version": "4.8.2",
+  "version": "4.9.1",
   "update": {
-    "version": "4.8",
+    "version": "4.9",
     "message": "修复了一些问题"
   },
   "film_url": "https://www.nunuyy.top",
@@ -12,7 +12,8 @@
   ],
   "buffering_timeout": 30,
   "native_play": 1,
-  "online_play_source": "© 2018-2021 努努影院",
+  "filter_results_enabled": 0,
+  "online_play_source": "© 2018-2022 努努影院",
   "appId": "",
   "review": 0,
   "swipes": [
