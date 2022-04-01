@@ -1,5 +1,5 @@
 {
-  "version": "5.3.1",
+  "version": "5.3.2",
   "update": {
     "version": "5.3",
     "message": "修复了一些问题，优化了播放体验"
@@ -41,7 +41,7 @@
   ],
   "swipes_new": [
     {
-      "title": "电视直播 中国广播电台",
+      "title": "电视直播 IPTV网络电视",
       "img": "https://coldstone1900.github.io/tv/support/ad1.png",
       "href": "https://play.google.com/store/apps/details?id=com.douglassmaster.tv",
       "type": 1
