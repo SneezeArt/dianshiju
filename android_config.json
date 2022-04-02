@@ -1,7 +1,7 @@
 {
-  "version": "5.3.4",
+  "version": "5.4.1",
   "update": {
-    "version": "5.3",
+    "version": "5.4",
     "message": "修复了一些问题，优化了播放体验"
   },
   "film_url": "https://www.nunuyy10.top",
@@ -10,7 +10,7 @@
     ".m3u8",
     ".mp4"
   ],
-  "limited": "200",
+  "limited": "1",
   "buffering_timeout": 30,
   "native_play": 1,
   "filter_results_enabled": 0,
@@ -41,7 +41,7 @@
   ],
   "swipes_new": [
     {
-      "title": "电视直播 IPTV网络电视",
+      "title": "电视直播 IPTV网络电视 广播电台",
       "img": "https://coldstone1900.github.io/tv/support/ad1.png",
       "href": "https://play.google.com/store/apps/details?id=com.douglassmaster.tv",
       "type": 1
