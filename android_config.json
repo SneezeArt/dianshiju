@@ -10,7 +10,7 @@
     ".m3u8",
     ".mp4"
   ],
-  "limited": "20",
+  "limited": "200",
   "buffering_timeout": 30,
   "native_play": 1,
   "filter_results_enabled": 0,
