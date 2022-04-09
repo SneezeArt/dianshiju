@@ -1,5 +1,5 @@
 {
-  "version": "5.4.5",
+  "version": "5.4.6",
   "update": {
     "version": "5.4",
     "message": "修复了一些问题，优化了播放体验"
@@ -52,15 +52,15 @@
       "href": "https://www.nunuyy.cc/dianshiju/92093.html"
     },
     {
-      "title": "致命愿望",
-      "img": "https://pic.rmb.bdstatic.com/bjh/df7bbd232416dc2b44fde3035962ef1f.jpeg",
-      "href": "https://www.nunuyy.cc/dianshiju/67714.html"
-    },
-    {
       "title": "电视直播 IPTV网络电视 广播电台",
       "img": "https://coldstone1900.github.io/tv/support/ad1.png",
       "href": "https://play.google.com/store/apps/details?id=com.douglassmaster.tv",
       "type": 1
+    },
+    {
+      "title": "致命愿望",
+      "img": "https://pic.rmb.bdstatic.com/bjh/df7bbd232416dc2b44fde3035962ef1f.jpeg",
+      "href": "https://www.nunuyy.cc/dianshiju/67714.html"
     },
     {
       "title": "嘉南传",
