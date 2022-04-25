@@ -1,7 +1,7 @@
 {
-  "version": "5.4.9.3",
+  "version": "5.5.1",
   "update": {
-    "version": "5.4",
+    "version": "5.5",
     "message": "修复了一些问题，优化了播放体验"
   },
   "film_url": "https://www.nnyy6.top",
