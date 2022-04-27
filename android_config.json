@@ -1,5 +1,5 @@
 {
-  "version": "5.7.2",
+  "version": "5.7.3",
   "update": {
     "version": "5.7",
     "message": "修复了一些问题，优化了播放体验"
@@ -12,7 +12,7 @@
   ],
   "limited": "0",
   "upgrade_desc": "您是否需要升级专业版解锁所有电视剧？",
-  "in_app_productId": "android.com.dianshiju.removeads",
+  "in_app_productId": "android.com.sneeze.dianshiju.removeads",
   "vipbg": "https://sneezeart.github.io/dianshiju/film_bg.jpeg",
   "vip": {
     "title": "升级专业版后，您将享有以下权利：",
