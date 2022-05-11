@@ -1,7 +1,7 @@
 {
-  "version": "5.7.4",
+  "version": "5.8.1",
   "update": {
-    "version": "5.7",
+    "version": "5.8",
     "message": "修复了一些问题，优化了播放体验"
   },
   "film_url": "https://www.nnyy6.top",
@@ -11,7 +11,8 @@
     ".mp4"
   ],
   "limited": "0",
-  "upgrade_desc": "您是否需要升级专业版解锁所有电视剧？",
+  "limited_date": "1",
+  "upgrade_desc": "您是否需要升级专业版，解锁所有影视视频？",
   "in_app_productId": "android.com.sneeze.dianshiju.removeads",
   "vipbg": "https://sneezeart.github.io/dianshiju/film_bg.jpeg",
   "vip": {
@@ -20,13 +21,13 @@
     "items": [
       {
         "icon": "ds_dianshi.png",
-        "title": "观看所有电视剧",
-        "subtitle": "在线观看超过10000部高清电视剧"
+        "title": "观看所有影视视频",
+        "subtitle": "在线观看超过10000部高清影视视频"
       },
       {
         "icon": "ds_hot.png",
         "title": "资源实时更新",
-        "subtitle": "超多热门电视剧实时同步"
+        "subtitle": "超多热门影视资源实时同步"
       },
       {
         "icon": "ds_pro_ad.png",
