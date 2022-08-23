@@ -1,5 +1,5 @@
 {
-  "version": "6.2.4",
+  "version": "6.2.5",
   "update": {
     "version": "6.2",
     "message": "修复了一些问题，优化了播放体验"
@@ -39,7 +39,7 @@
     ],
     "unlock_hint": "此为一次性付费，解锁后永久免费使用所有功能"
   },
-  "buffering_timeout": 30,
+  "buffering_timeout": 20,
   "native_play": 1,
   "filter_results_enabled": 0,
   "online_play_source": "© 2018-2022",
@@ -74,25 +74,25 @@
       "type": 1
     },
     {
-        "title": "扫黑风暴",
-        "img": "https://img1.doubanio.com/view/photo/l/public/p2675419029.jpg",
-        "href": "https://www.dandanzan10.top/dianshiju/88848.html"
-      },
-      {
-        "title": "星汉灿烂·月升沧海",
-        "img": "https://img9.doubanio.com/view/photo/l/public/p2876845146.jpg",
-        "href": "https://www.dandanzan10.top/dianshiju/104489.html"
-      },
-      {
-        "title": "雪中悍刀行",
-        "img": "https://img2.doubanio.com/view/photo/l/public/p2842224692.webp",
-        "href": "https://www.dandanzan10.top/dianshiju/93922.html"
-      },
-      {
-        "title": "鱿鱼游戏 第一季",
-        "img": "https://img2.doubanio.com/view/photo/l/public/p2677934363.jpg",
-        "href": "https://www.dandanzan10.top/dianshiju/90840.html"
-      }
+      "title": "扫黑风暴",
+      "img": "https://img1.doubanio.com/view/photo/l/public/p2675419029.jpg",
+      "href": "https://www.dandanzan10.top/dianshiju/88848.html"
+    },
+    {
+      "title": "星汉灿烂·月升沧海",
+      "img": "https://img9.doubanio.com/view/photo/l/public/p2876845146.jpg",
+      "href": "https://www.dandanzan10.top/dianshiju/104489.html"
+    },
+    {
+      "title": "雪中悍刀行",
+      "img": "https://img2.doubanio.com/view/photo/l/public/p2842224692.webp",
+      "href": "https://www.dandanzan10.top/dianshiju/93922.html"
+    },
+    {
+      "title": "鱿鱼游戏 第一季",
+      "img": "https://img2.doubanio.com/view/photo/l/public/p2677934363.jpg",
+      "href": "https://www.dandanzan10.top/dianshiju/90840.html"
+    }
   ],
   "drawer": {
     "txt": "每个时代拥有阳光照射不到的黑暗，可是总有些人坚持让阳光普照大地，为此不惜生命。",
@@ -116,7 +116,7 @@
     ],
     "button": "我知道了"
   },
-  "filter_films_enable" : 1,
+  "filter_films_enable": 1,
   "filter_films": [
     "键",
     "金瓶梅",
@@ -280,9 +280,12 @@
     "一个女孩和一个男孩",
     "拉斯维加斯快车道"
   ],
-  "filter_categories": ["伦理"],
-  "excluded_filter_films": ["速度与激情"],
-  "buffering_timeout": 20,
+  "filter_categories": [
+    "伦理"
+  ],
+  "excluded_filter_films": [
+    "速度与激情"
+  ],
   "search_hint_text": "请输入关键词，如\"扫黑风暴\"",
   "play_no_source_hint": "抱歉，该影片暂无播放源，请切换源或者观看其它影片或者稍后重试",
   "playing_error_hint": "抱歉，播放源片段出现错误，请重试后拖出此片段观看或者稍后重试",
