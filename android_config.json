@@ -1,5 +1,5 @@
 {
-  "version": "6.4.1",
+  "version": "6.4.3",
   "update": {
     "version": "6.4.0",
     "message": "修复了一些问题，优化了播放体验"
@@ -74,24 +74,24 @@
       "type": 1
     },
     {
-      "title": "扫黑风暴",
-      "img": "https://img1.doubanio.com/view/photo/l/public/p2675419029.jpg",
-      "href": "https://www.dandanzan10.top/dianshiju/88848.html"
+      "title": "苍兰诀",
+      "img": "https://img2.doubanio.com/view/photo/l/public/p2640370611.jpg",
+      "href": "https://www.dandanzan10.top/dianshiju/103118.html"
     },
     {
-      "title": "星汉灿烂·月升沧海",
-      "img": "https://img9.doubanio.com/view/photo/l/public/p2876845146.jpg",
-      "href": "https://www.dandanzan10.top/dianshiju/104489.html"
+      "title": "黑话律师",
+      "img": "https://img1.doubanio.com/view/photo/l/public/p2876877328.jpg",
+      "href": "https://www.dandanzan10.top/dianshiju/106612.html"
     },
     {
-      "title": "雪中悍刀行",
-      "img": "https://img2.doubanio.com/view/photo/l/public/p2842224692.webp",
-      "href": "https://www.dandanzan10.top/dianshiju/93922.html"
+      "title": "罚罪",
+      "img": "https://img2.doubanio.com/view/photo/l/public/p2880628171.jpg",
+      "href": "https://www.dandanzan10.top/dianshiju/108400.html"
     },
     {
-      "title": "鱿鱼游戏 第一季",
-      "img": "https://img2.doubanio.com/view/photo/l/public/p2677934363.jpg",
-      "href": "https://www.dandanzan10.top/dianshiju/90840.html"
+      "title": "黑袍纠察队 第三季",
+      "img": "https://img9.doubanio.com/view/photo/l/public/p2872798525.jpg",
+      "href": "https://www.dandanzan10.top/dianshiju/102447.html"
     }
   ],
   "drawer": {
